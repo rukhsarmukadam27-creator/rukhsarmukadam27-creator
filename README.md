@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋, I'm Rukhsar Mukadam
 
-<!--
-**rukhsarmukadam27-creator/rukhsarmukadam27-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Power BI | SQL | Excel | Tableau | Python
 
-Here are some ideas to get you started:
+I'm a B.Sc. Physics graduate passionate about transforming raw data into meaningful insights and building interactive dashboards for data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Generative AI, Machine Learning, and Natural Language Processing (NLP).
+
+🛠️ Technical Skills
+
+- Data Visualization: Power BI, Tableau
+- Data Analysis: Microsoft Excel, Pivot Tables, Pivot Charts, KPIs
+- Database: MySQL, SQL Queries
+- Programming: Python
+- Data Modeling: Star Schema and Galaxy Schema
+- Analytics: DAX, Dashboard Development
+
+📊 Featured Projects
+
+- AdventureWorks Sales Analysis
+- Supply Chain Analysis
+- Zomato Data Analysis
+
+🎯 Career Goal
+
+To grow as a Data Analyst and use data to solve real-world business problems.
+
+Always learning, building, and improving! 🌱
